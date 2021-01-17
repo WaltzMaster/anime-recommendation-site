@@ -2,3 +2,6 @@
 @import "base/_global";
 @import "modules/_bg";
 @import "modules/_navbar";
+@import "modules/_button";
+@import "modules/_slideshow";
+@import "modules/_table";

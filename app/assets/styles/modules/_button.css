@@ -1,0 +1,27 @@
+
+button:focus {
+  outline: none;
+}
+
+#spoiler_button {
+  font-size: 20px;
+  font-weight: bold;
+  width: 175px;
+  height: 55px;
+  margin: 0 10px;
+  color: white;
+  background: #174FA5;
+  border-radius: 5px;
+  border: none;
+}
+
+#spoiler_button:hover {
+  font-weight: bold;
+  color: white;
+  box-shadow: 5px 5px 5px black;
+}
+
+#spoiler_button:active {
+  font-weight: bold;
+  box-shadow: none;
+}
