@@ -453,6 +453,7 @@ template {
 body {
   font-family: 'Roboto', sans-serif;
   color: #333;
+  font-size: 19px;
   background-color: #ADD8E6;
 }
 
@@ -488,7 +489,6 @@ img {
 .bg {
   position: relative;
   margin-bottom: -4px;
-
 }
 
 .bg__text-content {
@@ -505,6 +505,16 @@ img {
     font-size: 55px;
     color: #E8A87C;
     font-weight: bold;
+  }
+
+.bg__animetitle{
+    text-align: center;
+    font-size: 55px;
+    -webkit-transform: translateY(20%);
+            transform: translateY(20%);
+    color: #0C42B6;
+    font-weight: bold;
+    font-family: Verdana;
   }
 
 /* Navbar container */

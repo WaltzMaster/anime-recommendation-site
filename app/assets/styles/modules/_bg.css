@@ -17,4 +17,12 @@
     font-weight: bold;
   }
 
+  &__animetitle{
+    text-align: center;
+    font-size: 55px;
+    transform: translateY(20%);
+    color: #0C42B6;
+    font-weight: bold;
+    font-family: Verdana;
+  }
 }
